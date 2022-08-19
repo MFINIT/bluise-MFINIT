@@ -1,0 +1,7 @@
+{
+  "name": "nuxt-netlifycms",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
